@@ -1,0 +1,13 @@
+{
+  "name": "blackjack200/expressphp",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "": "src/"
+    }
+  },
+  "require": {
+    "ext-sockets": "*"
+  }
+}
